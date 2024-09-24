@@ -1,6 +1,6 @@
 # Tracking my progress as a Java Developer
 
-Hi,
+Hi 👋,
 I'm Fatima,and I am excited to share my progress as I learn and grow as a Java Developer.
 
 ## Goals
